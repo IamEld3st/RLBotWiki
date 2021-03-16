@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-parent: Help
+parent: Help and Issues
 nav_order: 2
 ---
 

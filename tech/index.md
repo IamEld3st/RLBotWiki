@@ -9,6 +9,3 @@ has_children: true
 
 ## Help category
 ##### Here you will find pages to help you use RLBot!
-
-### Table of Content
-* [Sockets specification](sockets)

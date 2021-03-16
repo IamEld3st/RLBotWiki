@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Antivirus Notes
-parent: Help
+parent: Help and Issues
 nav_order: 3
 ---
 

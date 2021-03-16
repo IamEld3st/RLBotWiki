@@ -4,6 +4,7 @@ title: Help
 nav_order: 2
 description: "Help category"
 permalink: /help
+has_children: true
 ---
 
 ## Help category

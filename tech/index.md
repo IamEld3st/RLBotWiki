@@ -4,6 +4,7 @@ title: Technical documents
 nav_order: 3
 description: "Technical documents"
 permalink: /tech
+has_children: true
 ---
 
 ## Help category
